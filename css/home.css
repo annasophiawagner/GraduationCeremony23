@@ -35,9 +35,6 @@
       float: center;
     }
 
-    video {
-    }
-
 
     /* Projekte-Container-Stil */
     .project-container {
@@ -69,7 +66,6 @@
     .logo {
       width:40%;
       height: auto;
-      text-align: left;
     }
 
     /* Hover-Funktion für die Links */
